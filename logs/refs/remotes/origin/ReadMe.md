@@ -1,1 +1,0 @@
-0000000000000000000000000000000000000000 7b6a4bc9fe8d193a093adb4532816093f623893e root <root@fb622659-0e0f-4499-96ab-5d3d27f43b86.dxrpqgqhlb3ehogrxrezr215ye.rx.internal.cloudapp.net> 1772204659 +0000	fetch --unshallow --tags: storing head
